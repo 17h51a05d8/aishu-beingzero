@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/17h51a05d8/aishu-beingzero/issues"
   },
-  "homepage": "https://github.com/17h51a05d8/aishu-beingzero#readme"
+  "homepage": "https://github.com/17h51a05d8/aishu-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
